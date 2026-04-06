@@ -1,8 +1,8 @@
 const CACHE = 'food-tracker-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  '/Calorie-tracker/',
+  '/Calorie-tracker/index.html',
+  '/Calorie-tracker/manifest.json'
 ];
 
 self.addEventListener('install', e => {

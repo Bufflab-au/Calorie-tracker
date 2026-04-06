@@ -3,6 +3,7 @@
   "short_name": "Food Tracker",
   "description": "Simple daily food and calorie tracker for chicken, tuna, rice, eggs and olive oil",
   "start_url": "/Calorie-tracker/",
+  "scope": "/Calorie-tracker/",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#0d0d0d",

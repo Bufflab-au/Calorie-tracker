@@ -398,7 +398,7 @@ async function lookupWithAI(){
   document.getElementById('ai-result-rows').style.display='none';
   document.getElementById('add-btn').disabled=true;
   try{
-    const WORKER_URL='https://food-tracker-proxy.YOUR-SUBDOMAIN.workers.dev';
+    const WORKER_URL='patient-morning-b6bc.jasontclow.workers.dev';
     const res=await fetch(WORKER_URL,{
       method:'POST',
       headers:{'Content-Type':'application/json'},

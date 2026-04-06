@@ -1,4 +1,4 @@
-const CACHE = 'food-tracker-v1';
+const CACHE = 'food-tracker-v2';
 const ASSETS = [
   '/Calorie-tracker/',
   '/Calorie-tracker/index.html',
